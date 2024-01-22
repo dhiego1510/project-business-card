@@ -1,4 +1,3 @@
-# React + Vite
 # Personal Business Card
 
 This is my personal business card, a simple web page that includes my photo, personal information and links to my social networks. You can use it as a digital business card to share your contact details and online profiles.
@@ -16,5 +15,5 @@ This is my personal business card, a simple web page that includes my photo, per
 - HTML
 - CSS
 - FontAwesome for icons
--React
--Js
+- React + Vite
+- Js
