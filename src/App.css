@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+
+
+ /* app stylr*/
+
+  .app-container {
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px 10px;
+    
+    width: 517px;
+    height: 1000px;
+    background-color: rgb(37, 37, 42);
+  }
+
+  .app-container-two {
+    border-radius: 10px;
+    margin: 20px auto;
+    background-color: #16151a;
+    width: 317px;
+    border: 1px solid white;
+    
+  }
+
+  .photo {
+    width: 100%;
+    border-radius: 10px;
+     
+    }
+
+
+    /* main  style*/
+
+  .main-container {
+    
+  }
+  
+  .main-button-linkedin {
+    background-color: #74C0FC;
+    border: none;
+  }
+  
+ .icon-linkedin {
+  background-color: #74C0FC;
+  color: white;
+ }
+
+ .main-h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 10px 0px;
+ }
+
+ .main-h4 {
+  text-align: center;
+  margin-top: 4px;
+ }

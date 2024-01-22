@@ -8,9 +8,13 @@ function App() {
   
   return (
     <section className='app-container'>
-      <Header/>
-      <MainContent/>
-      <Footer/>
+
+      <main className='app-container-two' >
+        <Header/>
+        <MainContent/>
+        <Footer/>
+      </main>
+      
     </section>
   )
 }
