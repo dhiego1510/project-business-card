@@ -4,9 +4,13 @@
     box-sizing: border-box;
     color: white;
 }
-
-
-
+.photo {
+  width: 100%;
+  border-radius: 10px;
+}
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
 
  /* app stylr*/
 
@@ -15,50 +19,131 @@
     margin: 20px auto;
     padding: 20px 10px;
     
-    width: 517px;
+    width: 700px;
     height: 1000px;
-    background-color: rgb(37, 37, 42);
+    background-color: rgb(37, 37, 48);
   }
 
   .app-container-two {
     border-radius: 10px;
     margin: 20px auto;
-    background-color: #16151a;
+    background-color: #1b1924;
     width: 317px;
-    border: 1px solid white;
     
   }
-
-  .photo {
-    width: 100%;
-    border-radius: 10px;
-     
-    }
-
 
     /* main  style*/
 
   .main-container {
+   
+  }
+  .main-content{
+    line-height: 1.21rem;
+  }
+  .icon-linkedin {
+    background-color: #74C0FC;
+    color: white;
+   }
+   .main-h2 {
+    font-size: 26px;
+    text-align: center;
+    margin: 15px 0px 10px 0px;
+   }
+   .main-h4 {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: rgb(173, 157, 9);
+   }
+ 
+  .main-span {
+    display: block;
+    font-size: 10px;
+    text-align: center;
+
+  }
+  
+  /* button*/
+  .btn-class {
+    display: flex;
+    padding: 20px 10px;
+    justify-content: space-evenly;
+  }
+  .main-button {
+    width: 115px;
+    height: 37px;
+    border-radius: 6px;
+    display: flex;
+    border: none;
+    outline: none;
+    justify-content: space-evenly;
+    align-items: center;
+
+  }
+  .button-link {
+    background-color: #74C0FC;
+    font-size: 16px;
+    display: flex; 
+    padding: 5px 20px;
+  }
+  .button-email {
+    background-color: #121118;
+    display: flex;
+    font-size: 16px;
+    vertical-align: middle;
+    padding: 5px 20px;
+  }
+  .email {
+    font-size: 20px;
+    height: 20px;
+    margin: 3px;
+  
+  }
+  .linkedin {
+    background-color: #74C0FC;
+    font-size: 20px;
+    height: 20px;
+    margin: 3px;
+  }
+
+  .abaout-interest {
+    width: 250px;
+    height: 246px;
+    padding: 10px;
+    font-size: 12px;
+    line-height: 1.08rem;
+    margin: 3px auto;
+    overflow: hidden;
+    padding-bottom: 4px;
+  }
+
+  p{
+    font-size: 11px;
+    text-align: justify;
+    word-spacing: .05rem;
     
   }
-  
-  .main-button-linkedin {
-    background-color: #74C0FC;
-    border: none;
+  h2{
+    margin-bottom: 3px;
+    margin-top: 4px;
+  }
+
+  /*footer*/
+
+  .photo-social{
+    font-size: 33px;
+    margin: 20px;
+
   }
   
- .icon-linkedin {
-  background-color: #74C0FC;
-  color: white;
- }
-
- .main-h2 {
-  font-size: 30px;
-  text-align: center;
-  margin: 10px 0px;
- }
-
- .main-h4 {
-  text-align: center;
-  margin-top: 4px;
- }
+  .footer-container {
+    display: flex;
+    justify-content: center;
+    height: 64px;
+    width: 317px;
+    background-color: #121118;
+    align-items: center;
+    padding: 3px;
+    vertical-align: middle;
+  }

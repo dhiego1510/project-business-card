@@ -7,20 +7,30 @@ import Section from "./Info"
 export default function Main() {
   return (
     <main className="main-container">
-      <h1 className="main-h2">Diego Arias</h1>
-      <h4 className="main-h4">Desarrollador de Software</h4>
-        <p className="main-parr">algo de algo </p>
 
-        <button 
-          className="main-button-linkedin">
-          <FontAwesomeIcon className="icon-linkedin" icon={faLinkedin} />
+      <h1 className="main-h2 main-content">Diego Arias</h1>
+      <h4 className="main-h4 main-content">Desarrollador de Software</h4>
 
-        </button>
+        <span className="main-span main-content"></span>
 
-        <button className="main-button-gmail">
-        <FontAwesomeIcon className="icon-gmail" icon={faEnvelope} />
-        </button>
+          <div className="btn-class ">
 
+          <button className="main-button button-email">
+            <span>    
+            <FontAwesomeIcon className="email" icon={faEnvelope} />
+            </span>
+            Email
+          </button>
+
+          <button className="main-button button-link">
+              <span>
+              <FontAwesomeIcon className="linkedin" icon={faLinkedin} />
+              </span>
+            linkedin
+          </button>
+
+          </div>
+        
         <Section/>
     </main>
    

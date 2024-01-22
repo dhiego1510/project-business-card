@@ -5,8 +5,8 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons"
 export default function Footer() {
   return (
     <footer className="footer-container">
-      <FontAwesomeIcon icon={faInstagram} />
-      <FontAwesomeIcon icon={faGithub} />
+      <FontAwesomeIcon className="photo-social" icon={faInstagram} />
+      <FontAwesomeIcon className="photo-social" icon={faGithub} />
         
 
     </footer>

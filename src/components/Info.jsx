@@ -11,8 +11,7 @@ export default function Info() {
       <h3>Interest</h3>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore sed pariatur earum incidunt a,
-        vel quos numquam ipsum laborum nulla mollitia temporibus nihil aut, saepe expedita, optio sapiente 
-        placeat repellendus.
+        vel quos numquam ipsum laborum nulla mollitia temporibus nihil aut, saepe expedita  
       </p>
 
     </section>
