@@ -15,19 +15,19 @@ export default function Main() {
 
           <div className="btn-class ">
 
-          <button className="main-button button-email">
+          <a href="mailto:dhiego1510@gmail.com" className="main-button button-email button">
             <span>    
             <FontAwesomeIcon className="email" icon={faEnvelope} />
             </span>
             Email
-          </button>
+          </a>
 
-          <button className="main-button button-link">
+          <a href="https://www.linkedin.com/in/diego-arias-88b77a29b/" target="blank" className="main-button button-link button">
               <span>
               <FontAwesomeIcon className="linkedin" icon={faLinkedin} />
               </span>
             linkedin
-          </button>
+          </a>
 
           </div>
         

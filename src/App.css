@@ -5,7 +5,8 @@
     color: white;
 }
 .photo {
-  width: 100%;
+  width: 300px;
+  height: 290px ;
   border-radius: 10px;
 }
 body {
@@ -20,7 +21,7 @@ body {
     padding: 20px 10px;
     
     width: 700px;
-    height: 1000px;
+    height: 900px;
     background-color: rgb(37, 37, 48);
   }
 
@@ -28,15 +29,13 @@ body {
     border-radius: 10px;
     margin: 20px auto;
     background-color: #1b1924;
-    width: 317px;
-    
+    width: 300px;
+    height: 727px;
   }
 
     /* main  style*/
 
-  .main-container {
-   
-  }
+    
   .main-content{
     line-height: 1.21rem;
   }
@@ -82,7 +81,7 @@ body {
 
   }
   .button-link {
-    background-color: #74C0FC;
+    background-color: #2575b2;
     font-size: 16px;
     display: flex; 
     padding: 5px 20px;
@@ -101,7 +100,7 @@ body {
   
   }
   .linkedin {
-    background-color: #74C0FC;
+    background-color: #2575b2;
     font-size: 20px;
     height: 20px;
     margin: 3px;
@@ -141,9 +140,16 @@ body {
     display: flex;
     justify-content: center;
     height: 64px;
-    width: 317px;
+    width: 300px;
     background-color: #121118;
     align-items: center;
     padding: 3px;
     vertical-align: middle;
+  }
+
+  .button:hover {
+    cursor: pointer;
+    transition: 0.5;
+    scale: 0.9;
+    transition: all 0.5s;
   }
