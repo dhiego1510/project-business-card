@@ -1,8 +1,20 @@
 # React + Vite
+# Personal Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal business card, a simple web page that includes my photo, personal information and links to my social networks. You can use it as a digital business card to share your contact details and online profiles.
 
-Currently, two official plugins are available:
+![screenshot](https://github.com/dhiego1510/project-business-card/assets/97997583/765d41ce-f8bd-4546-9dc4-18c22106b89f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Main Functionalities
+
+- Includes personal information such as name, occupation, etc.
+- Displays a personal photo.
+- Links to social network profiles such as Linkedin and GitHub.
+
+## Technologies Used
+
+- HTML
+- CSS
+- FontAwesome for icons
+-React
+-Js
