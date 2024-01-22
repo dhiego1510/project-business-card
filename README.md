@@ -15,6 +15,8 @@ This is my personal business card, a simple web page that includes my photo, per
 - FontAwesome for icons
 - React + Vite
 - Js
+- ![screenshot](https://github.com/dhiego1510/project-business-card/assets/97997583/d75824ab-852f-4a99-8835-e727adcada9a)
+
 
 ## Link app
 https://dhiego1510.github.io/project-business-card/
