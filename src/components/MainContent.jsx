@@ -9,7 +9,7 @@ export default function Main() {
     <main className="main-container">
 
       <h1 className="main-h2 main-content">Diego Arias</h1>
-      <h4 className="main-h4 main-content">Desarrollador de Software</h4>
+      <h4 className="main-h4 main-content">Software developer</h4>
 
         <span className="main-span main-content"></span>
 
