@@ -2,8 +2,6 @@
 
 This is my personal business card, a simple web page that includes my photo, personal information and links to my social networks. You can use it as a digital business card to share your contact details and online profiles.
 
-![screenshot](https://github.com/dhiego1510/project-business-card/assets/97997583/765d41ce-f8bd-4546-9dc4-18c22106b89f)
-
 ## Main Functionalities
 
 - Includes personal information such as name, occupation, etc.
@@ -17,6 +15,8 @@ This is my personal business card, a simple web page that includes my photo, per
 - FontAwesome for icons
 - React + Vite
 - Js
+- ![screenshot](https://github.com/dhiego1510/project-business-card/assets/97997583/d75824ab-852f-4a99-8835-e727adcada9a)
+
 
 ## Link app
 https://dhiego1510.github.io/project-business-card/
